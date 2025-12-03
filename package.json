@@ -2,8 +2,8 @@
   "name": "MyPortfolioBNew",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.js",
-  "author": "Blessing",
+  "main": "server.js",
+  "author": "Deksan",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.25.2",
